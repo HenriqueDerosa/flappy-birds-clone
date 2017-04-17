@@ -1,2 +1,2 @@
 # flappy-birds-clone
-A Flappy birds game, made in Unity. 
+This is a simple study made in Unity, during the Game Programming course at Imagine School, Florianópolis- Brazil.
